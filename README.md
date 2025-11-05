@@ -1,12 +1,3 @@
-New chat
-
-# Privacy Policy - WodTimer ## 1. Our Commitment to Your Privacy Welcome to WodTimer. This Privacy Policy has been created to provide you with a clear and comprehensive understanding of how we handle your information. Our guiding principle is that **your data is yours**. WodTimer is fundamentally
-
-pasted
-
-make this into markdown language, give me the code back.
-
-markdown
 # Privacy Policy - WodTimer
 
 ## 1. Our Commitment to Your Privacy
@@ -68,10 +59,4 @@ You are in full control of your data when using WodTimer.
 ## 9. Changes to This Privacy Policy
 
 We may update this Privacy Policy to reflect changes in our practices or for other operational, legal, or regulatory reasons. If we make material changes, we will notify you by updating the date at the top of this policy and providing a notice within the app.
-
-
-
-
-
-
 
